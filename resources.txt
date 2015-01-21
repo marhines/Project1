@@ -1,0 +1,10 @@
+Marjorie Rhines   resources.txt for Project 1
+Udacity Frontend Nanodegree Style Guide
+Resources used include:
+	textbook: Javascript & HTML 4.0 by William H. Murray and Chris H. Pappas
+	Udacity course: Intro to HTML & CSS
+					How to Use Git and GitHub
+	Website: http://www.w3schools.com
+	Discussion forum: Piazza
+	Sublime Text 2 for text editor
+
