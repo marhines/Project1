@@ -1,44 +1,41 @@
 /*  set up main font and style   */
 body {
 	font-family: "Verdana", sans-serif;
-	color: #666666;
+	color: #666;
 	width: 1024px;
 	line-height: 2.0;
 	font-weight: normal;
 
 }
-
-.mug img {
-	max-width:375px;
-	max-height:375px;
+/* max width and height of the mug image
+.mug {
+	max-width: 375px;
+	max-height: 375px;
 }
 /*   container to hold page header and the two columns  */
 .container {
-	width:1024px;
-	margin-top: 25px;
-	padding-left: 12px;
+	width: 1024px;
+	margin: 12px 0 0 0;
+	padding: 12px 0 0 0;
 
 }
 /*    container for the two columns  */
 .container2 {
 	font-size: medium;
 	font-weight: normal;
-	margin-top: 20px;
-	margin-left: 15px;
-	margin-right: 26px;
+	margin: 20px 26px 0 40px;
 }
 /* set up spacing for the two columns */
 .col-md-7 {
-	padding-left: 22px;
-	padding-right: 0px;
+	padding: 0 0 0 7px;
 }
 
 .col-md-5 {
-	padding-right:10px;
+	padding: 0 10px 0 0;
 }
 /* for the spacing between the paragraphs and the subtitle  */
 .paragraphs {
-	padding-top: 10px;
+	padding: 30px 16px 0 0;
 
 }
 /* style for the page header and sub titles  */
@@ -48,30 +45,24 @@ h1 {
 }
 
 h2 {
-	font-size:24px;
+	font-size: 24px;
 	font-weight: bold;
-	margin-top: 0px;
-	color: #F07C17;
+	margin: 0 0 0 0;
+	color: #f07c17;
 }
 /* spacing for the 3 paragraphs  */
 p {
-	margin: 10px 0 10px 0;
 	font-weight: 400;
 	line-height: 32px;
 }
 /* features is the box under the image  */
 .features {
 	max-width: 375px;
-	margin-top: 32px;
-	border: 1px solid #CCCCCC;
-	padding-top: 30px;
-	padding-left: 28px;
-	padding-bottom: 30px;
-	padding-right: 4px;
+	margin: 32px 0 0 0;
+	border: 1px solid #CCC;
+	padding: 30px 4px 30px 28px;
 }
 /*   the list within the features box   */
 .list {
-	padding-top:20px;
-	padding-left:3px;
+	padding: 28px 0 0 3px;
 }
-
